@@ -1,0 +1,6 @@
+{
+  "macOS Monterey": "monterey.json",
+  "macOS Ventura": "ventura.json",
+  "macOS Sonoma": "sonoma.json",
+  "macOS Sequoia": "sequoia.json"
+}
