@@ -1,0 +1,40 @@
+{
+  "version": "macOS Sonoma",
+  "releases": [
+    {
+      "version": "14.0",
+      "build": "23A344",
+      "date": "2023-09-26"
+    },
+    {
+      "version": "14.1",
+      "build": "23B74",
+      "date": "2023-10-25"
+    },
+    {
+      "version": "14.2",
+      "build": "23C64",
+      "date": "2023-12-11"
+    },
+    {
+      "version": "14.3",
+      "build": "23D56",
+      "date": "2024-01-22"
+    },
+    {
+      "version": "14.4",
+      "build": "23E224",
+      "date": "2024-03-07"
+    },
+    {
+      "version": "14.4.1",
+      "build": "23E236",
+      "date": "2024-03-25"
+    },
+    {
+      "version": "14.5",
+      "build": "23F79",
+      "date": "2024-05-13"
+    }
+  ]
+}
